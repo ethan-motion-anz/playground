@@ -1,0 +1,379 @@
+{
+    "data": {
+      "goals": [
+        {
+          "archivedAt": null,
+          "id": "manage-my-money-save",
+          "name": "Manage my money & Save",
+          "episodes": [
+            {
+              "archivedAt": null,
+              "id": "improve-my-financial-wellbeing",
+              "name": "Improve my financial wellbeing",
+              "jobs": [
+                {
+                  "archivedAt": null,
+                  "id": "compare-my-income-and-spending",
+                  "name": "Compare my income & spending"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "manage-my-savings-goals",
+                  "name": "Create & Manage my virtual goals"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "know-how-much-money-i-have-saved",
+                  "name": "Know how much money I have saved"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "know-my-progress-towards-my-goals",
+                  "name": "Know my progress towards my goals"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "know-my-upcoming-expenses",
+                  "name": "Know my upcoming expenses"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "manage-my-ad-ons",
+                  "name": "Manage My Add Ons"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "manage-my-app-preferences",
+                  "name": "Manage my app preferences"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "set-myself-a-spending-budget",
+                  "name": "Set myself a spending budget"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "transfer-my-money",
+                  "name": "Transfer My Money"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "understand-the-categories-that-my-xxxx",
+                  "name": "Understand how my expenses and income are categorised"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "view-my-insights",
+                  "name": "View my insights"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "view-my-interest-rate-and-interest-payments",
+                  "name": "View My Interest Rate & Interest Payments"
+                }
+              ]
+            },
+            {
+              "archivedAt": null,
+              "id": "order-receive-and-manage-my-card",
+              "name": "Order, Receive and Manage my card",
+              "jobs": [
+                {
+                  "archivedAt": null,
+                  "id": "activate-my-physical-card",
+                  "name": "Activate my physical card"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "block-my-card-or-apply-other-card-control",
+                  "name": "Block my card (or apply other card control)"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "change-my-card-pin",
+                  "name": "Change my card PIN"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "fund-my-account-through-my-digital-wallet",
+                  "name": "Fund my account through my digital wallet"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "order-my-new-card",
+                  "name": "Order my new card"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "set-up-my-virtual-card",
+                  "name": "Provision My Card To My Digital Wallet"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "push-provision-my-card-to-apple-pay",
+                  "name": "Push Provision My Card to Apple Pay"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "receive-physical-card",
+                  "name": "Receive Physical Card"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "report-card-as-damaged-get-a-replacement",
+                  "name": "Report card as damaged & get a replacement"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "report-card-as-lost-stolen-and-replace",
+                  "name": "Report card as lost/stolen and replace"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "set-my-card-pin",
+                  "name": "Set my card PIN"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "set-transaction-restrictions-by-category",
+                  "name": "Set transaction restrictions by category (eg overseas, online, gambling etc)"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "show-my-card-details-in-app",
+                  "name": "Show my Card details in app"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "view-card-on-file-merchants",
+                  "name": "View card on file merchants"
+                }
+              ]
+            },
+            {
+              "archivedAt": null,
+              "id": "use-my-transaction-account",
+              "name": "Use my Transaction account",
+              "jobs": [
+                {
+                  "archivedAt": null,
+                  "id": "authorise-push-notifications-on-my-device",
+                  "name": "Authorise push notifications on my device"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "contact-merchants",
+                  "name": "Contact Merchants"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "create-anzx-payment-username",
+                  "name": "Create ANZx payment username"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "create-my-pay-id",
+                  "name": "Create my PayID"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "know-how-much-money-i-have-available-to-transact-with",
+                  "name": "Know how much money I have available to transact with"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "know-my-current-balance",
+                  "name": "Know my current balance"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "know-when-an-attempted-transaction-is-rejected-and-why",
+                  "name": "Know when an attempted transaction is rejected, and why"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "know-when-i-wont-be-able-to-use-a-feature",
+                  "name": "Know when I won't be able to use a feature"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "make-a-payment-to-a-domestic-bank-account",
+                  "name": "Make a payment to a domestic bank account"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "manage-an-anzx-payment-username",
+                  "name": "Manage an ANZx payment username"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "manage-a-once-off-or-recurring-bpay-payment",
+                  "name": "Manage a once off or recurring BPAY payment"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "schedule-a-once-off-or-recurring-bsb-account-payment",
+                  "name": "Manage a once off or recurring Pay anyone payment"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "manage-a-once-off-or-recurring-transfer",
+                  "name": "Manage a once off or recurring Transfer"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "manage-my-contacts-and-billers",
+                  "name": "Manage my contacts and billers"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "manage-my-daily-payment-limits",
+                  "name": "Manage my daily payment limits"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "manage-my-pay-id",
+                  "name": "Manage my PayID"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "manage-my-payto-agreements",
+                  "name": "Manage my Payto Agreements"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "pay-a-bill-using-bpay",
+                  "name": "Pay a bill using BPAY"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "pay-someone-via-bsb-account-number",
+                  "name": "Pay Anyone via BSB/Account Number"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "pay-someone-via-pay-id",
+                  "name": "Pay Anyone via PayID"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "provide-feedback-on-merchant-information",
+                  "name": "Provide Feedback on Merchant Information"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "receive-a-notification-about-a-transaction",
+                  "name": "Receive a notification about a transaction"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "receive-a-refund-at-point-of-sale-with-my-virtual-card",
+                  "name": "Receive a refund at point of sale using my digital wallet"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "receive-a-refund-at-point-of-sale-with-my-physical-card",
+                  "name": "Receive a refund at point of sale with my physical card"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "receive-a-refund-for-a-card-purchase-online",
+                  "name": "Receive a refund for a card purchase online"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "save-a-contact",
+                  "name": "Save a contact"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "schedule-a-once-off-or-recurring-bpay-payment",
+                  "name": "Schedule a once off or recurring BPAY payment"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "schedule-a-once-off-or-recurring-payid-payment",
+                  "name": "Schedule a once off or recurring Pay Anyone payment"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "schedule-a-once-off-or-recurring-transfer",
+                  "name": "Schedule a once off or recurring Transfer"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "search-and-filter-my-transactions",
+                  "name": "Search and Filter my Transactions"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "show-my-account-details",
+                  "name": "Show my account details"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "spend-my-money-at-point-of-sale-with-my-virtual-card",
+                  "name": "Spend my money at point of sale using my digital wallet"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "spend-my-money-at-point-of-sale-with-my-physical-card",
+                  "name": "Spend my money at point of sale with my physical card"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "spend-my-money-online-by-inputting-my-card-details",
+                  "name": "Spend my money online by inputting my card details"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "spend-my-money-online-with-my-virtual-card",
+                  "name": "Spend my money online or within apps with my digital wallet"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "tag-my-transactions-with-custom-tags-for-future-reference",
+                  "name": "Tag my transactions with custom tags, for future reference"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "transfer-my-money",
+                  "name": "Transfer My Money"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "view-and-manage-my-transactions",
+                  "name": "View and Manage My Transactions"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "view-and-share-my-statements",
+                  "name": "View and share my statements"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "view-a-payment-conversation-with-a-saved-contact",
+                  "name": "View a payment conversation with a saved Contact"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "view-my-daily-payment-limits",
+                  "name": "View my daily payment limits"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "view-my-payment-history-includes-failed-and-pending-transfers-payments",
+                  "name": "View my payment history ( includes failed and pending transfers & payments)"
+                },
+                {
+                  "archivedAt": null,
+                  "id": "view-transactions-on-map",
+                  "name": "View my transactions on map"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
