@@ -1,7 +1,6 @@
-name: Task
-description: Create a new piece of work
-title: "Task: "
-labels: ["bug"]
+name: New task
+description: Create a new task (for Fabric SRE team)
+labels: ["new"]
 body:
   - type: textarea
     id: task
@@ -17,3 +16,14 @@ body:
     attributes:
       value: |
         Make sure you add this to the **Fabric-SRE** project with **Status:** `Backlog`.
+  - type: checkboxes
+    id: requirements
+    attributes:
+      - label: Fabric-SRE project
+        options:
+          - label: Fabric-SRE project selected (if applicable)
+            required: true
+      - label: Milestone
+        options:
+          - label: Milestone selected (if applicable)
+            required: true
