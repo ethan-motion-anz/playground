@@ -1,4 +1,4 @@
-name: [Front door] Feature request
+name: Front door - Feature request
 description: Request a new feature or enhancement to an SRE-owned product
 labels: ["new", "feature-request"]
 body:
