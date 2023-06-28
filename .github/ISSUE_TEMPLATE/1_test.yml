@@ -2,9 +2,6 @@ name: Feature request
 description: Request a new feature or enhancement to an SRE-owned product
 labels: ["new", "feature-request"]
 body:
-  - type: markdown
-    attributes:
-      value: "Thanks for raising a feature request!"
   - type: textarea
     id: fr
     attributes:
@@ -15,3 +12,6 @@ body:
     attributes:
       label: Value added
       description: What value will this feature add?
+  - type: markdown
+    attributes:
+      value: "Thanks for raising a feature request!"
