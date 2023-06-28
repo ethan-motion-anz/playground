@@ -1,12 +1,17 @@
-name: Documentation request
-description: Request new documentation or an uplift to existing SRE-owned docs.
-labels: ["new", "doc-request"]
+name: [Front door] Feature request
+description: Request a new feature or enhancement to an SRE-owned product
+labels: ["new", "feature-request"]
 body:
   - type: textarea
-    id: dr
+    id: fr
     attributes:
-      label: Documentation request
-      description: What docs would you like to see created or uplifted? Don't forget to include links! 
+      label: Feature request
+      description: What feature or enhancement would you like to see?
+  - type: textarea
+    id: fr-value
+    attributes:
+      label: Value add
+      description: What value will this feature add?
   - type: markdown
     attributes:
-      value: "Thanks for raising a documentation request!"
+      value: "Thanks for raising a feature request!"
