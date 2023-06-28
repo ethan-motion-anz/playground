@@ -19,11 +19,9 @@ body:
   - type: checkboxes
     id: requirements
     attributes:
-      - label: Fabric-SRE project
+      - label: Checks
         options:
           - label: Fabric-SRE project selected (if applicable)
             required: true
-      - label: Milestone
-        options:
           - label: Milestone selected (if applicable)
             required: true
