@@ -14,12 +14,5 @@ body:
       description: How do we measure or confirm that the work is done?
   - type: markdown
     attributes:
-      value: |
-        Make sure you add this to the **Fabric-SRE** project with **Status:** `Backlog`.
-  - type: checkboxes
-    id: requirements
-    attributes:
-      - label: Checks
-        options:
-          - label: Fabric-SRE project selected (if applicable)
-          - label: Milestone selected (if applicable)
+      value: "Make sure you add this to the **Fabric-SRE** project with **Status:** `Backlog`."
+
