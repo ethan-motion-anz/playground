@@ -1,27 +1,17 @@
-name: New task
-description: Create a new task (for Fabric SRE team)
-labels: ["new"]
+name: Feature request
+description: Request a new feature or enhancement to an SRE-owned product
+labels: ["new", "feature-request"]
 body:
-  - type: textarea
-    id: task
-    attributes:
-      label: Task
-      description: What work needs to be done?
-  - type: textarea
-    id: acceptance-criteria
-    attributes:
-      label: Acceptance criteria
-      description: How do we measure or confirm that the work is done?
-      required: true
   - type: markdown
     attributes:
-      value: "Make sure you add this to the **Fabric-SRE** project with **Status:** `Backlog`."
-  - type: checkboxes
-    id: requirements
+      value: "Thanks for raising a feature request!"
+  - type: textarea
+    id: fr
     attributes:
-      label: Checks
-      options:
-        - label: Fabric-SRE project selected (if applicable)
-          required: true
-        - label: Milestone selected (if applicable)
-          required: true
+      label: Feature Request
+      description: What feature or enhancement would you like to see?
+  - type: textarea
+    id: fr-value
+    attributes:
+      label: Value added
+      description: What value will this feature add?
