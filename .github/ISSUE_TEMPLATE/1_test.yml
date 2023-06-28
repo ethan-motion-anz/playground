@@ -15,4 +15,10 @@ body:
   - type: markdown
     attributes:
       value: "Make sure you add this to the **Fabric-SRE** project with **Status:** `Backlog`."
-
+  - type: checkboxes
+    id: requirements
+    attributes:
+      - label: Checks
+        options:
+          - label: Fabric-SRE project selected (if applicable)
+          - label: Milestone selected (if applicable)
