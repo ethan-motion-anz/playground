@@ -22,6 +22,4 @@ body:
       - label: Checks
         options:
           - label: Fabric-SRE project selected (if applicable)
-            required: true
           - label: Milestone selected (if applicable)
-            required: true
