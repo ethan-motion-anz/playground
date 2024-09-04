@@ -23,7 +23,7 @@ body:
     attributes:
       label: Incident Description
       placeholder: Incident description
-  - type: textarea
+  - type: input
     id: pir
     attributes:
       label: Post Incident Record
