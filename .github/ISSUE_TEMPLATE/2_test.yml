@@ -1,0 +1,30 @@
+name: Fabric SRE - Incident
+description: Create issue to track end-to-end incident management
+title: "[Incident]: "
+labels: ["incident"]
+projects: ["anzx/217"]
+body:
+  - type: input
+    id: snow_inc
+    attributes:
+      label: ServiceNow Incident Record
+      placeholder: Parent incident record
+    validations:
+      required: false
+  - type: input
+    id: slack_chan
+    attributes:
+      label: Slack Incident Channel
+      placeholder: "#inc-"
+    validations:
+      required: false
+  - type: textarea
+    id: desc
+    attributes:
+      label: Incident Description
+      placeholder: Incident description
+  - type: textarea
+    id: pir
+    attributes:
+      label: Post Incident Record
+      placeholder: Confluence share link
