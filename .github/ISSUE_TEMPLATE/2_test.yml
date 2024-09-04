@@ -28,3 +28,13 @@ body:
     attributes:
       label: Post Incident Record
       placeholder: Confluence share link
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Closure checks
+      options:
+        - label: PIR debrief held
+        - label: Recommendations broadcasted
+        - label: ServiceNow incident record resolved
+        - label: Incident closed by Incident Bot
+        - label: Slack incident channel archived
