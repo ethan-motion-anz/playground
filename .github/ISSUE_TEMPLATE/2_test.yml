@@ -1,40 +1,18 @@
-name: Fabric SRE - Incident
-description: Create issue to track end-to-end incident management
-title: "[Incident]: "
-labels: ["incident"]
+name: Fabric SRE - Investigation
+description: Create issue to execute a short-term structured exploration of a specific issue, an unanswered question, or assessment of potential solutions.
+title: "[Investigation]: "
+labels: ["investigation"]
 projects: ["anzx/217"]
 body:
-  - type: input
-    id: snow_inc
-    attributes:
-      label: ServiceNow Incident Record
-      placeholder: Parent incident record
-    validations:
-      required: false
-  - type: input
-    id: slack_chan
-    attributes:
-      label: Slack Incident Channel
-      placeholder: "#inc-"
-    validations:
-      required: false
   - type: textarea
     id: desc
     attributes:
-      label: Incident Description
-      placeholder: Incident description
-  - type: input
-    id: pir
-    attributes:
-      label: Post Incident Record
-      placeholder: Confluence share link
+      label: Investigation Description
+      placeholder: Investigation description
   - type: checkboxes
     id: checks
     attributes:
       label: Closure checks
       options:
-        - label: PIR debrief held
-        - label: Recommendations broadcasted
-        - label: ServiceNow incident record resolved
-        - label: Incident closed by Incident Bot
-        - label: Slack incident channel archived
+        - label: Investigation published in Confluence. [Fabric SRE - Investigations](https://confluence.service.anz/x/SVH8VQ)
+        - label: Investigation has been reviewed.
