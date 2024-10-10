@@ -1,5 +1,5 @@
 name: Fabric SRE - Investigation
-description: Create issue to execute a short-term structured exploration of a specific issue, an unanswered question, or assessment of potential solutions.
+description: Create issue for a short-term structured exploration of a specific issue, an unanswered question, or assessment of potential solutions.
 title: "[Investigation]: "
 labels: ["investigation"]
 projects: ["anzx/217"]
@@ -14,5 +14,5 @@ body:
     attributes:
       label: Closure checks
       options:
-        - label: Investigation published in Confluence. [Fabric SRE - Investigations](https://confluence.service.anz/x/SVH8VQ)
-        - label: Investigation has been reviewed.
+        - label: Investigation published ([Fabric SRE - Investigations](https://confluence.service.anz/x/SVH8VQ))
+        - label: Investigation reviewed.
